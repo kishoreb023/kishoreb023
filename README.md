@@ -1,17 +1,15 @@
+# Hi 👋 I'm Kishore
 
-## Hi there 👋
+AI/ML Engineer | B.Tech Artificial Intelligence & Data Science
 
-<!--
-**kishoreb023/kishoreb023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Python
+- TensorFlow
+- PyTorch
+- OpenCV
+- React
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Deepfake Detection
+- Brain Tumor Detection
+- LearnWise AI
