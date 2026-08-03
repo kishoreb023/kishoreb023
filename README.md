@@ -42,6 +42,3 @@ Git | GitHub | VS Code | Jupyter
 
 [03] LearnWise AI
      PDF → AI Course Generator
-<div align="center">
-kishore@github ~ $ echo "Thanks for visiting 🚀"
-</div>
